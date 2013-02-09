@@ -8,7 +8,7 @@ n which your application specific resources are located.
 
     */
 
-    $application = '../app';
+    $application = '../KH/app';
 
 
 
@@ -22,7 +22,7 @@ n which your application specific resources are located.
 
         */
 
-	$modules = '../modules';
+	$modules = '../KH/modules';
 
 
 
@@ -38,7 +38,7 @@ n which your application specific resources are located.
 
 	     */
 
-	     $system = 'core';
+	     $system = '../KH/core';
 
 
 
