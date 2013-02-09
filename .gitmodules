@@ -7,3 +7,9 @@
 [submodule "KH/modules/orm"]
 	path = KH/modules/orm
 	url = git@github.com:kohana/orm.git
+[submodule "KH/modules/frontend"]
+	path = KH/modules/frontend
+	url = git@github.com:infants/ishop_frontend.git
+[submodule "KH/modules/backend"]
+	path = KH/modules/backend
+	url = git@github.com:infants/ishop_backend.git
