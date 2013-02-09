@@ -1,0 +1,9 @@
+[submodule "KH/core"]
+	path = KH/core
+	url = git@github.com:kohana/core.git
+[submodule "KH/modules/userguide"]
+	path = KH/modules/userguide
+	url = git@github.com:kohana/userguide.git
+[submodule "KH/modules/orm"]
+	path = KH/modules/orm
+	url = git@github.com:kohana/orm.git
